@@ -70,6 +70,7 @@ main{
 
 /* Products section */
 .products-wrapper>h2{
+  color: #3A3A3A;
   font-size: 36px;
   margin: 1.5em;
   text-align: center;
