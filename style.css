@@ -15,7 +15,7 @@ main{
 .container{
   /* background-color: #3A3A3A;  */
   background-color: #fff;
-  width: 80%;
+  width: 76%;
   padding: 30px;
 }
 /* Header */
@@ -150,7 +150,7 @@ main{
 .hot-deal-btn:hover{
   border: 1px solid #E02C6D;
   background:#E02C6D;
-  transition: 1s ;
+  transition: 0.5s ;
 }
 /* Footer */
 footer{
