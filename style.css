@@ -155,6 +155,7 @@ main{
 }
 /* Footer */
 footer{
+  width: 100%;
   display: block;
   text-align: center;
   background-color: #02021a;
